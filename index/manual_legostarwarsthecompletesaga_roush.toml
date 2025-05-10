@@ -1,0 +1,6 @@
+name = "Manual_LegoStarWarsTheCompleteSaga_roush"
+display_name = "Manual: Lego Star Wars The Complete Saga"
+home = "https://discord.com/channels/1097532591650910289/1156373916370083880"
+
+[versions]
+"0.7.1" = { local = "../apworlds/manual_legostarwarsthecompletesaga_roush-0.7.1.apworld" }
